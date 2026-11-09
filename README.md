@@ -1,0 +1,2 @@
+# Nvm-bug
+Bug WhatsApp 
